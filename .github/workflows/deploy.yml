@@ -10,10 +10,10 @@ permissions:
   contents: read
 
 env:
-  RESOURCE_GROUP: rgdemo219
-  ACR_NAME: acrdemo921
+  RESOURCE_GROUP: rgdemo229
+  ACR_NAME: acrdemo229
   IMAGE_NAME: reference-app-1
-  CONTAINER_APP: academo921
+  CONTAINER_APP: academo229
 
 jobs:
   build-deploy:
