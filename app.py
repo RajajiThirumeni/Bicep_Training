@@ -32,7 +32,7 @@ def home():
     </head>
 
     <body>
-        <h1>Upadted V5 Now</h1>
+        <h1>New Calculator app</h1>
 
         <form action="/calculate" method="get">
             <input type="number" name="num1" placeholder="Number 1" required>
